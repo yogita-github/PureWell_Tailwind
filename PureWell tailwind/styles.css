@@ -1,0 +1,63 @@
+.logo {
+  height: 60px;
+}
+
+.basic_info {
+  font-size: 2.5rem;
+  font-weight: 700;
+}
+
+.number_of_counts {
+  font-size: 3rem;
+  font-weight: 700;
+}
+
+.clients-count {
+  font-size: 1.25rem;
+}
+
+.about-image {
+  max-width: 100%;
+}
+
+.tick-item {
+  font-size: 1rem;
+}
+
+.card-logo {
+  width: 100px;
+  height: 100px;
+}
+
+.card h3 {
+  font-size: 1.25rem;
+  font-weight: 700;
+}
+
+.card p {
+  font-size: 0.875rem;
+}
+
+.view-details {
+  font-size: 0.875rem;
+  text-decoration: none;
+}
+
+.footer-section h3 {
+  font-size: 1.5rem;
+  margin-bottom: 1rem;
+}
+
+.footer-section p,
+.footer-section a {
+  font-size: 1rem;
+}
+
+.footer-section a {
+  color: #ff7f50;
+}
+
+.social-links a {
+  font-size: 1.5rem;
+  margin-right: 0.5rem;
+}
